@@ -1,2 +1,4 @@
 python_bootcamp_venv/*
 *.code-workspace
+.vscode/*
+*.pyc
