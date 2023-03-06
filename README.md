@@ -1,0 +1,1 @@
+Repository for a collection of different python projects created while attending: https://www.udemy.com/course/100-days-of-code/
